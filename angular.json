@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngcalculator"
+    }
+  },
+  "defaultProject": "ngcalculator",
+  "cli": {
+    "analytics": "9551a9c0-e145-48af-8ba9-6949ac8a5b97"
+  }
 }
